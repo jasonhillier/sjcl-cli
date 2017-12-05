@@ -2,6 +2,8 @@
 
 ## Summary
 
+Fork of https://github.com/masonicGIT/sjcl-cli to add support for file I/O
+
 An partial, interactive command-line interface for the [Stanford Javascript Crypto Library](https://crypto.stanford.edu/sjcl/)
 
 ## Requirements
